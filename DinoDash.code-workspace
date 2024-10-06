@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "dinodash_game",
+			"path": "../dinodash_game"
+		}
+	],
+	"settings": {}
+}
